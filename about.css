@@ -1,0 +1,48 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+
+nav{
+
+    
+        
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    padding: 20px;
+   
+    
+    
+
+    overflow: hidden;
+    
+    
+}
+
+        
+nav a:hover{
+    color: bisque;
+}
+
+
+header a:hover{
+    color: bisque;
+}
+
+h2{
+    margin: 10px;
+}
+
+body{
+    background-color: grey;
+}
+
+.container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+}

@@ -1,0 +1,89 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+
+nav{
+
+    
+        
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    padding: 20px;
+   
+    
+    
+
+    overflow: hidden;
+    
+    
+}
+
+        
+nav a:hover{
+    color: bisque;
+}
+
+
+header a:hover{
+    color: bisque;
+}
+
+div{
+    display: flex;
+    justify-content:flex-end;
+    width: 250px;
+    margin: auto;
+    flex-direction: row;
+    
+    
+}
+
+input{
+    background-color: bisque;
+    border-radius: 2px;
+}
+
+input:hover{
+   background-color:burlywood;
+}
+
+.submit{
+    display: flex;
+    margin: auto;
+    width: 140px;
+    height: 40px;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 8px;
+    cursor: pointer;
+
+    align-self: center;
+    
+}
+
+label{
+    font-size: larger;
+}
+
+body{
+    background-color:beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+   margin: auto;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9dlws5ziSk_rBbeM7f8xAzWQTowP5JnAVeTlcrvegQ&usqp=CAU&ec=48665698");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 3px;
+}

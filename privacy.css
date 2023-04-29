@@ -1,0 +1,70 @@
+p{
+    font-size: large;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+
+nav{
+
+    
+        
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    padding: 20px;
+   
+    
+    
+
+    overflow: hidden;
+    
+    
+}
+
+        
+nav a:hover{
+    color: bisque;
+}
+
+
+header a:hover{
+    color: bisque;
+}
+
+h2{
+    font-family: 'Arial', sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+
+
+}
+
+h3{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+body{
+    background: url("https://www.l3harris.com/sites/default/files/styles/1920_x_728/public/2020-08/L3Harris_Background_3840x1456_0.png?itok=ys2D0e7O");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a{
+    color: blanchedalmond;
+}
+a:hover{
+    color:blueviolet;
+    
+}
